@@ -1,0 +1,5 @@
+CSOURCES= $(SRC)AirCirculationTimes.c
+HSOURCES=
+VERSION=2d_node
+PARALLEL_NODE=ibmmpi
+GPU_SUPPORT=off

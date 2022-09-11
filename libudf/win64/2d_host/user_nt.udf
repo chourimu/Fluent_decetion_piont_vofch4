@@ -1,0 +1,5 @@
+CSOURCES= $(SRC)AirCirculationTimes.c
+HSOURCES=
+VERSION=2d_host
+PARALLEL_NODE=none
+GPU_SUPPORT=off
